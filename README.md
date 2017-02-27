@@ -6,7 +6,7 @@
 
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
-**Check out my [blog](https://medium.com/@MaximAbramchuk) or say *hi* on [Twitter](https://twitter.com/maximabramchuck).**
+**Check out my [channel](https://t.me/botcube) or [blog](https://medium.com/@MaximAbramchuk).**
 
 ### Table of Contents
 
@@ -19,7 +19,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
   - [C♯](#c-2)
   - [.NET](#net)
   - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
   - [CSS](#css)
   - [Django](#django)
   - [EmberJS](#emberjs)
@@ -139,10 +138,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Experience and questions from Clojure developer interview collected by Reddit users](https://www.reddit.com/r/Clojure/comments/34qhha/clojure_coding_job_interview_experience/)
 * [Interview cake Clojure solutions](https://github.com/DerekCuevas/interview-cake-clj)
 
-### CoffeeScript
-
-* [Top 25 CoffeeScript Interview Questions for Freshers and Beginners](http://career.guru99.com/top-25-coffeescript-interview-questions/)
-
 ### CSS
 
 * [25 helpful CSS interview questions and answers](http://www.skilledup.com/articles/25-css-interview-questions-answers)
@@ -180,9 +175,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [12 Essential HTML5 Interview Questions from top 3% developers company](http://www.toptal.com/html5/interview-questions)
 * [35 Helpful HTML & HTML5 Interview Questions & Answers](http://www.skilledup.com/articles/html-html5-interview-questions-answers)
 * [40 important HTML 5 Interview questions with answers](http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe)
-* [40 important HTML 5 Interview questions with answers](http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe)
 * [HTML interview questions and answers for freshers and experienced candidates Also find HTML online practice tests to fight written tests and certification exams on HTML](http://www.careerride.com/Interview-Questions-HTML.aspx)
 * [Top 50 HTML Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-50-html-interview-questions/)
+* [Common HTML interview questions for freshers](http://www.javatpoint.com/html-interview-questions)
 
 ### Ionic
 
@@ -279,10 +274,11 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Python interview questions collected by Reddit users](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions)
 * [Python Interview Questions from questionscompiled](http://www.questionscompiled.com/python-interview-questions.html)
 * [Top 25 Python Interview Questions from Career Guru](http://career.guru99.com/top-25-python-interview-questions/)
+* [Python Interview 10 questions from Corey Schafer](https://www.youtube.com/watch?v=DEwgZNC-KyE)
 
 ### Ruby on Rails
 
-* [10 (best) Ruby (and Rails) interview questions (and answers)](http://legeek.org/10-best-ruby-and-rails-interview-questions-and-answers/)
+* [10 (best) Ruby (and Rails) interview questions (and answers)](http://web.archive.org/web/20160505234502/http://legeek.org/10-best-ruby-and-rails-interview-questions-and-answers)
 * [20 Ruby on Rails interview questions and answers from CareerRide.com](http://www.careerride.com/ruby-on-rails-interview-questions.aspx)
 * [8 Essential Ruby on Rails Interview Questions from top 3% developers company](http://www.toptal.com/ruby-on-rails/interview-questions)
 * [A list of common questions with answers ask during interview of ruby on rails job](https://github.com/rishiip/ruby-on-rails-interview-questions)
@@ -297,6 +293,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [This quiz intends to test your understanding around ReactJS fundamentals (Set 3)](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-3)
 * [This quiz intends to test your understanding around ReactJS fundamentals](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-2)
 * [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
+* [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 
 ### Ruby
 
@@ -377,7 +374,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [13 PostgreSQL Interview Q&A](http://www.dotnetfunda.com/interviews/cat/208/postgresql)
 * [Frequently Asked Basic PostgreSQL Interview Questions and Answers](http://nazafbtemplate.blogspot.com.by/2014/06/frequently-asked-basic-postgresql.html)
 * [PostgreSQL Interview Preparation Guide](http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_](http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_))
-* [PostgreSQL Interview Q&A from CoolInterview.com](http://www.coolinterview.com/type.asp?iType=411](http://www.coolinterview.com/type.asp?iType=411))
+* [PostgreSQL Interview Q&A from CoolInterview.com](http://www.coolinterview.com/type.asp?iType=411)
 
 ### SQL
 
@@ -417,7 +414,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [A great list of Java interview questions](http://java2novice.com/java-interview-programs/)
 * [Algorithms playground for common interview questions written in Ruby](https://github.com/sagivo/algorithms)
 * [EKAlgorithms contains some well known CS algorithms & data structures](https://github.com/EvgenyKarkan/EKAlgorithms)
-* [Five programming problems every Software Engineer should be able to solve in less than 1 hour](https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour)
+* [Five programming problems every Software Engineer should be able to solve in less than 1 hour](http://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour)
 * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 * [Top 15 Data Structures and Algorithm Interview Questions for Java programmer](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
 
